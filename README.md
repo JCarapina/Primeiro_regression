@@ -63,7 +63,7 @@ O modelo conseguiu capturar as principais relações entre os atributos dos imó
 ## ▶️ Como Executar
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/SEU_USUARIO/house-price-ml.git
+   git clone https://github.com/JCarapina/Primeiro_regression.git
    ```
 2. Abra o notebook `house_price.ipynb` no **Jupyter Notebook** ou **Google Colab**.  
 3. Execute célula por célula para reproduzir os resultados.  
