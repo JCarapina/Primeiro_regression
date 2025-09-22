@@ -1,4 +1,3 @@
-@ -0,0 +1,77 @@
 # 🏡 House Price Prediction - Machine Learning
 
 Este projeto aplica **Regressão Linear** para prever preços de imóveis, utilizando Python e bibliotecas de análise de dados e estatística.  
