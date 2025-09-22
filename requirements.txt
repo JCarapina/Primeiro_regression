@@ -1,0 +1,7 @@
+Pandas 2.2.2 
+NumPy 1.26.4
+Matplotlib 3.10.6
+Seaborn 0.13.2
+Statsmodels 0.14.5
+Scikit-learn 1.7.2
+joblib 1.5.2
