@@ -1,4 +1,4 @@
-# 🏡 House Price Prediction - Machine Learning
+# House Price Prediction - Machine Learning
 
 Este projeto aplica **Regressão Linear** para prever preços de imóveis, utilizando Python e bibliotecas de análise de dados e estatística.  
 
@@ -6,7 +6,7 @@ O objetivo é entender a relação entre variáveis explicativas (área, número
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 - `data/` → contém o dataset bruto.
 - `notebooks/` → Jupyter Notebook com a análise completa.
 - `src/` → funções Python para tratamento e modelagem.
@@ -16,7 +16,7 @@ O objetivo é entender a relação entre variáveis explicativas (área, número
 
 ---
 
-## 🚀 Passos do Projeto
+## Passos do Projeto
 1. **Carregamento dos Dados**  
    Importação e limpeza da base.  
 
@@ -42,7 +42,7 @@ O objetivo é entender a relação entre variáveis explicativas (área, número
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - Python 3.13.7  
 - Pandas 2.2.2 
 - NumPy 1.26.4
@@ -55,12 +55,12 @@ O objetivo é entender a relação entre variáveis explicativas (área, número
 
 ---
 
-## 📊 Resultados
+## Resultados
 O modelo conseguiu capturar as principais relações entre os atributos dos imóveis e seus preços, fornecendo previsões interpretáveis e insights para análise.  
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/JCarapina/Primeiro_regression.git
@@ -70,7 +70,7 @@ O modelo conseguiu capturar as principais relações entre os atributos dos imó
 
 ---
 
-## 📌 Autor
+##  Autor
 Projeto desenvolvido por [João Carapina].  
-📫 Me encontre no [LinkedIn] https://www.linkedin.com/in/joao-vitor-carapina-barbosa-04084433a/
+ Me encontre no [LinkedIn] https://www.linkedin.com/in/joao-vitor-carapina-barbosa-04084433a/
 
